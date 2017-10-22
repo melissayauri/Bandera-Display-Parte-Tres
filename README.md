@@ -11,4 +11,4 @@ El presente trabajo consta de hacer uso de la propiedad "display", en el cual se
 -Css
 
 4. Imagen  
-![recursos](assets/display_parte3)
+![recursos](assets/img/display_parte3.JPG)
